@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+Java software developer working at [MCContent](https://mccontent.net), creating [Euclid Editor](https://euclideditor.app). He/him
+
+### #BlackLivesMatter
+
+🌎 [swinxy.me](https://swinxy.me)  
+📬 [contact@swinxy.me](mailto:contact@swinxy.me)  
+▶ [youtube.com/SWinxyTheCat](https://youtube.com/SWinxyTheCat)  
+🐦 [@SWinxyTheCat](https://twitter.com/SWinxyTheCat)  
+🔼 [/u/SWinxy](https://reddit.com/u/SWinxy)  
+🎮 SWinxy
+
 <!--
 **SWinxy/SWinxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
