@@ -2,6 +2,8 @@
 
 Java software developer working at [MCContent](https://mccontent.net), creating [Euclid Editor](https://euclideditor.app). He/him
 
+`SWinxy` is pronounced /swi:ŋksi:/.
+
 ### #BlackLivesMatter
 
 🌎 [swinxy.me](https://swinxy.me)  
