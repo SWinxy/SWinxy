@@ -9,7 +9,7 @@ Lead software developer at [MCContent](https://mccontent.net), creating [Euclid 
 🌎 [swinxy.me](https://swinxy.me)  
 📬 [contact@swinxy.me](mailto:contact@swinxy.me)  
 ▶ [youtube.com/SWinxyTheCat](https://youtube.com/SWinxyTheCat)  
-🌫️ [@swinxy.bsky.social](https://bsky.app/profile/swinxy.bsky.social)
+🌫️ [@swinxy.bsky.social](https://bsky.app/profile/swinxy.bsky.social)  
 🐦 [@SWinxyTheCat](https://twitter.com/SWinxyTheCat)  
 🔼 [/u/SWinxy](https://reddit.com/u/SWinxy)  
 🎮 SWinxy (sometimes SWiinxy, if some bastard has taken my name)
